@@ -35,7 +35,7 @@ header {
 }
 
 .header__menu-list {
-    list-style: none;    
+    list-style: none;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -55,7 +55,7 @@ header {
     border-bottom: 1px solid currentColor;
 }
 
-a { 
+a {
     text-decoration: none;
     color: #F5F5F5;
 }
