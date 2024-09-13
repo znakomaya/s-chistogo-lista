@@ -129,7 +129,6 @@ a {
     font-weight: 400;
     font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 19px;
 }
@@ -295,19 +294,16 @@ a {
     align-items: flex-start;
     padding: 20px;
     gap: 8px;
-}
-
-.card_text-only .card__title{
-    color: #131313;
-}
-
-.card_text-only {
     width: 279px;
     font-family: 'EB Garamond', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 30px;
+    color: #131313;
+}
+
+.card_text-only .card__title {
     color: #131313;
 }
 
